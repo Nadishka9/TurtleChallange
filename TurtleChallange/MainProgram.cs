@@ -27,13 +27,12 @@ namespace TurtleChallange
             {
                 Console.WriteLine("Invalid text file.");
                 Console.Write(@"Please use the following commands:
-PLACE X,Y,DIRECTION
-MOVE
-RIGHT
-LEFT
-REPORT
--------------
-.");
+                                PLACE X,Y,DIRECTION
+                                MOVE
+                                RIGHT
+                                LEFT
+                                REPORT
+                            ");
             }
         }
 

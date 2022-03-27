@@ -1,0 +1,15 @@
+C:\Users\nadis\source\repos\TurtleChallange\bin\Release\net6.0\TurtleChallange.exe
+C:\Users\nadis\source\repos\TurtleChallange\bin\Release\net6.0\TurtleChallange.deps.json
+C:\Users\nadis\source\repos\TurtleChallange\bin\Release\net6.0\TurtleChallange.runtimeconfig.json
+C:\Users\nadis\source\repos\TurtleChallange\bin\Release\net6.0\TurtleChallange.dll
+C:\Users\nadis\source\repos\TurtleChallange\bin\Release\net6.0\TurtleChallange.pdb
+C:\Users\nadis\source\repos\TurtleChallange\obj\Release\net6.0\TurtleChallange.csproj.AssemblyReference.cache
+C:\Users\nadis\source\repos\TurtleChallange\obj\Release\net6.0\TurtleChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadis\source\repos\TurtleChallange\obj\Release\net6.0\TurtleChallange.AssemblyInfoInputs.cache
+C:\Users\nadis\source\repos\TurtleChallange\obj\Release\net6.0\TurtleChallange.AssemblyInfo.cs
+C:\Users\nadis\source\repos\TurtleChallange\obj\Release\net6.0\TurtleChallange.csproj.CoreCompileInputs.cache
+C:\Users\nadis\source\repos\TurtleChallange\obj\Release\net6.0\TurtleChallange.dll
+C:\Users\nadis\source\repos\TurtleChallange\obj\Release\net6.0\refint\TurtleChallange.dll
+C:\Users\nadis\source\repos\TurtleChallange\obj\Release\net6.0\TurtleChallange.pdb
+C:\Users\nadis\source\repos\TurtleChallange\obj\Release\net6.0\TurtleChallange.genruntimeconfig.cache
+C:\Users\nadis\source\repos\TurtleChallange\obj\Release\net6.0\ref\TurtleChallange.dll
